@@ -1,0 +1,1 @@
+This directory will be created and managed by Flask-Migrate at runtime. No static migration files are necessary for this template. Using db.create_all() ensures SQLite works out-of-the-box. For production, initialize migrations with `flask db init`, `flask db migrate`, `flask db upgrade`.

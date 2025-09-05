@@ -12,3 +12,4 @@ with app.app_context():
 
     with open(output_path, "w") as f:
         json.dump(openapi_spec, f, indent=2)
+    print(f"OpenAPI spec written to {output_path}")
