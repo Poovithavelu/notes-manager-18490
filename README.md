@@ -1,1 +1,3 @@
-# notes-manager-18490
+# Project Repository
+
+This is the initial README file for the project.
